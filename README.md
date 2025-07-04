@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/505586328256118784)](https://discord.com/users/505586328256118784)
-
-![](https://raw.githubusercontent.com/vdgiapp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vdgiapp&theme=dark&layout=compact)
