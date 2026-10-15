@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="480" height="480" alt="cat-spinning" src="https://github.com/user-attachments/assets/6a8bb095-b866-46ad-8354-578f714353b3" />
+<img width="128" height="128" alt="cat-spinning" src="https://github.com/user-attachments/assets/6a8bb095-b866-46ad-8354-578f714353b3" />
   
 ![](https://github-readme-stats.shion.dev/api?username=vdgiapp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 </br>
