@@ -16,7 +16,7 @@
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vdgiapp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/qzones)
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vdgiapp)
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vdgiapp)
-  [![VietQR](https://img.shields.io/badge/VietQR-FF6A4A?style=for-the-badge&logo=pinboard)](https://img.vietqr.io/image/MB-03959111-payos.svg)
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F0F0F0?style=for-the-badge&logo=ko-fi&logoColor=orange)](https://ko-fi.com/vdgiapp)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vdgiapp)
+  [![VietQR](https://img.shields.io/badge/VietQR-9C2C21?style=for-the-badge&logo=pinboard&logoColor=white)](https://img.vietqr.io/image/MB-03959111-payos.svg)
 </div>
