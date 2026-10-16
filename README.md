@@ -8,14 +8,20 @@
   <img width="64" height="64" alt="spin-spinning" src="https://github.com/user-attachments/assets/b1930351-76ff-4c32-8c92-4daeb23062cd" />
   <img width="64" height="64" alt="osaka-spin" src="https://github.com/user-attachments/assets/d212c9d4-2ab2-40b4-97a3-65cbe552a841" />
   <img width="64" height="64" alt="matikane-matikanetannhauser" src="https://github.com/user-attachments/assets/3940d1c0-1376-4dfe-a8f1-9acc6b564ded" />
+  
   <br/>
   <br/>
   
   <!-- ![](https://github-readme-stats.shion.dev/api?username=vdgiapp&theme=dark&hide_border=false&include_all_commits=true&count_private=true) -->
   
   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vdgiapp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+  [![Youtube](https://img.shields.io/badge/Youtube-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vdgiapp)
+  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vdgiapp)
+  [![Discord](https://img.shields.io/badge/Discord-5661EA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/505586328256118784)
+  <br/>
   
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/qzones)
+  [![PayPal](https://img.shields.io/badge/PayPal-0088F7?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/qzones)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F0F0F0?style=for-the-badge&logo=ko-fi&logoColor=orange)](https://ko-fi.com/vdgiapp)
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vdgiapp)
   [![VietQR](https://img.shields.io/badge/VietQR-9C2C21?style=for-the-badge&logo=pinboard&logoColor=white)](https://img.vietqr.io/image/MB-03959111-payos.svg)
