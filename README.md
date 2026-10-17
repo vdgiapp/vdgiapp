@@ -18,6 +18,7 @@
 
   [![Youtube](https://img.shields.io/badge/Youtube-FF0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vdgiapp)
   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vdgiapp)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vdgiapp)
   [![Discord](https://img.shields.io/badge/Discord-5661EA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/505586328256118784)
   <br/>
   
